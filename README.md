@@ -1,0 +1,5 @@
+- Name: Mau
+- Age: 26
+- Hobbies: Lying to myself.
+- Other Interests: Internet pictures of cats.
+- Loking forward to becoming knowledgeable in diferent languages and applications.
